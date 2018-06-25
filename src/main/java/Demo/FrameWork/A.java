@@ -11,6 +11,9 @@ public class A {
 	
 	public void add(int i)
 	{
+		
+		
+		
 	System.out.println((i *= i));
 	}
 }
